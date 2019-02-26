@@ -1,4 +1,4 @@
-# Flask Weather App 
+# Flask App 
 
 This is a Flask (Python) application that auto-detects local weather based off of user's external IP address.
 
